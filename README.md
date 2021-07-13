@@ -11,14 +11,19 @@ This workout is using the Google Merchandise Store dataset found from https://ww
 This workout is using the dataset 'marketing.csv' from the online course 'Analyzing Marketing Campaigns with pandas' at DataCamp (https://learn.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas). 
 
 This workout trys to achieve:
+
 a) Evaluate the effectiveness of the marketing campaign conductd on different channels by looking at the 1-month data collected for January 2018.
+
 b) Investiage the reason why there is a suddent drop on conversation rate from 'house ads' from the dataset.
+
 
 2. AB_Testing_on_Personalised_Emailing_(Datacamp)
 
 This workout is using the dataset 'marketing.csv' from the online course 'Analyzing Marketing Campaigns with pandas' at DataCamp (https://learn.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas). 
 
 This workout trys to achieve:
+
 a) Do a AB testing to test whether the personalised email campaign bring statistical significant impact to the conversion rate.
+
 b) Find if there is any level of impact affecting different customers' segments.
 
