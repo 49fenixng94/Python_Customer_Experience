@@ -1,6 +1,6 @@
 ### Python_Customer_Experience
 
-1. Workout_Data_Analytics_GA_Customer Revenue Prediction
+**1. Workout_Data_Analytics_GA_Customer Revenue Prediction**
 
 This workout is using the Google Merchandise Store dataset found from https://www.kaggle.com/c/ga-customer-revenue-prediction.
 
@@ -11,7 +11,7 @@ a) Analyze a Google Merchandise Store (also known as GStore, where Google swag i
 
 ### Python_Marketing_Analytics
 
-1. Analyzing_Mkt_Campaign_(Datacamp)
+**1. Analyzing_Mkt_Campaign_(Datacamp)**
 
 This workout is using the dataset 'marketing.csv' from the online course 'Analyzing Marketing Campaigns with pandas' at DataCamp (https://learn.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas). 
 
@@ -22,7 +22,7 @@ a) Evaluate the effectiveness of the marketing campaign conductd on different ch
 b) Investiage the reason why there is a suddent drop on conversation rate from 'house ads' from the dataset.
 
 
-2. AB_Testing_on_Personalised_Emailing_(Datacamp)
+**2. AB_Testing_on_Personalised_Emailing_(Datacamp)**
 
 This workout is using the dataset 'marketing.csv' from the online course 'Analyzing Marketing Campaigns with pandas' at DataCamp (https://learn.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas). 
 
